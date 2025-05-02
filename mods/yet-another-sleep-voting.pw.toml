@@ -1,0 +1,13 @@
+name = "Yet Another Sleep Voting"
+filename = "yasleepvoting-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8546bb7062a0ba8db94a7a250af5222df3c51f66"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6383088
+project-id = 1235218

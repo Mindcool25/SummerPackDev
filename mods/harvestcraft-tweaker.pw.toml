@@ -1,0 +1,13 @@
+name = "HarvestCraft Tweaker"
+filename = "harvestcrafttweaker-1.2c.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a12bba138396cc6a8c0e7e6c47d7aeeb7ca9176b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3042061
+project-id = 392712

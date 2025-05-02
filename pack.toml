@@ -1,0 +1,13 @@
+name = "Summer Pack Dev"
+author = "Mindcool, SackOfCookies"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7165ba0f64e917e55569c922e3c5970a1e626abbd037d408c6e46a6ee248a8ca"
+
+[versions]
+forge = "14.23.5.2859"
+minecraft = "1.12.2"
