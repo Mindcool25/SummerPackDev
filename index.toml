@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "2e8ce77dabfffcca374823681156b42c13762ebfe9b3f574b938b6fb5b501305"
+
+[[files]]
 file = "config/AE2Stuff/overrides/recipes.cfg"
 hash = "cc82db53331fd6f923c3f781a613aef39e284edb5c6653f1daa43dcaa82e74b3"
 
@@ -14,7 +18,7 @@ hash = "f3cf2ede9fb8f134cd2729bc1ce329957b99d93929088d07279a5058a0693b9d"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "3b2efb3ef6250a6338ccfe2a7e22d40c7576c8ea7b66d2b71c2445b928b5bb26"
+hash = "d2b5ddeb43de3ce92fa9f14ca6aaa4bf36af7e5fb053648c4bda910b56b8a058"
 
 [[files]]
 file = "config/AppliedEnergistics2/Facades.cfg"
@@ -22,11 +26,11 @@ hash = "c50bb6b5960ea48a025759c11082781f412d24e9a5be0db7d4d34948c7a7f0d4"
 
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "ae78268c349225439984fabb804a5ca003c68d7142f8d02cbd9062867ed19585"
+hash = "534bc6851232452a1545ee7ef6c1753df463926004a5f3ea2cdec78cd2fbb226"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
-hash = "f23223e3dfc91494f4a517cd98a2fb7ede6801ea3dbd99bc94cceedadd534af8"
+hash = "3febfbf74f60abfd01a9dd0aa625e21338ac73f8c569fd5b315d7aec4eb0c981"
 
 [[files]]
 file = "config/MrTJPCore.cfg"
@@ -114,7 +118,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/betterquesting.cfg"
-hash = "2f2222a2a67e6a34eb20c09e7be60a90935726f8039001830afe7e4afb4b2e6d"
+hash = "48416fbb336ed8526e90923154fad09fa89e4ef79a57c607884b1aa6f65face1"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests.json"
+hash = "4031ee893c80d1153b22f2f59b7c956353af173a70dc7d4a083ae1c77b2e73cc"
 
 [[files]]
 file = "config/bibliocraft.cfg"
@@ -1306,7 +1314,7 @@ hash = "9942e8e7cac1c56242efea389b4afb2970a9c6d62b252fc64624423463afe938"
 
 [[files]]
 file = "config/chiselsandbits.cfg"
-hash = "19c3297de76e679eed30e355d7196426431b1dca0bdc788702ad1bf548dc5477"
+hash = "053f2fc4e75984167acce17469457c0154e8a09715f3372edfb604c532403428"
 
 [[files]]
 file = "config/chiselsandbits_clipboard.cfg"
@@ -1341,8 +1349,12 @@ file = "config/ctm.cfg"
 hash = "2695969995e5c4d34e6f350bc2bac289b8ab0e80bca9fce098f5e10c370389d6"
 
 [[files]]
+file = "config/easylan.cfg"
+hash = "61c1aa37fa822a4bd05c29cdf14179666197bb800fc3d8a4db33a9d4e85075d1"
+
+[[files]]
 file = "config/elevatorid.cfg"
-hash = "99ea5d1d261c809b530cac1c8471fa5719d05291f027c88de0d7119dd6adcea2"
+hash = "4005773f31fa225e8591caa1106f84c7fb7955e862dae5e5485f2e8952e24ffb"
 
 [[files]]
 file = "config/endercore/cropconfig.json"
@@ -1786,7 +1798,7 @@ hash = "aa2d125660ad731dff9aec92c745a6947e204dba56ecc95d6907f1883d26ec33"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "c55287f27fbf25260e677a8735538998f8bc46479706eb6ef1ea20dab6d97298"
+hash = "019936046d41866ba32ea1b07c33a493b33c5c116db4443d8bc0e883a7e57617"
 
 [[files]]
 file = "config/jeibees.cfg"
@@ -1803,6 +1815,10 @@ hash = "c3dd92629e5c58b896df3364bc19cbbfd74446163b20084eb61947ae08dde223"
 [[files]]
 file = "config/lootr.cfg"
 hash = "b5f141583885253c020f004d6dd90bc8ae8d57f3e56ef233e1beb3204507aa69"
+
+[[files]]
+file = "config/malilib.json"
+hash = "b85bb3b973aa43e0ec0a19687eb09aa6ff71483becf42a2c9b019a5b592ac135"
 
 [[files]]
 file = "config/mcjtylib.cfg"
@@ -1898,7 +1914,7 @@ hash = "537c59b509a9008b1ab3c68774a4617abff3653e32dc4c839d5ca3dbb1011cf7"
 
 [[files]]
 file = "config/splash.properties"
-hash = "897fc7cc000b206b6b5ff3f26fc44e798e476da2e86b36c463c1864c6536c858"
+hash = "7d372717574236f4be2d45098ea59f199ddc2b1acbdc604d7d2f50a54383a26c"
 
 [[files]]
 file = "config/storagedrawers.cfg"
@@ -1942,11 +1958,11 @@ hash = "d1ed860463a05464d0d0a38200f66971caf81ce0225c88e700ec35a1f331c7a7"
 
 [[files]]
 file = "config/thaumicjei_itemstack_aspects.json"
-hash = "a9600937bd65aa3c0a0d0edd8c675147e57197b4a08a5af4db18cf304d514824"
+hash = "890bbcfab66dc05aa149e3968702a3e3016db70bb9db8263945aefd6186e7ebb"
 
 [[files]]
 file = "config/theoneprobe.cfg"
-hash = "b44248e4d62c385a12bf55c28e922739118ccaf7cdef17d4cceb1feb264f4c3b"
+hash = "2d35514edc1745bc9e2de411affe68955c85295cdbe4f640ad9704f1e24edd91"
 
 [[files]]
 file = "config/travelersbackpack.cfg"
@@ -2210,9 +2226,17 @@ file = "mods/journeymap-1.12.2-5.7.1p3.jar"
 hash = "8f09460c9d0582f974f4e84de938605b0a96e6da846e039308f1a2d379c873bd"
 
 [[files]]
+file = "mods/litematica-forge-1.12.2-0.0.0-dev.20191217.195055.jar.disabled"
+hash = "fb830f1b1cdb5deb9c70c73e7cf2f1d1654f841b77856d83057c3e4aff17e862"
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "efef0408c2dd7268131c857073f5ef73d40bad359679b0f8016e1d68c06aab0f"
 metafile = true
+
+[[files]]
+file = "mods/malilib-forge-1.12.2-0.10.0-dev.23.nomixin.jar"
+hash = "24276028ea555f663225b8cbd4493fa3ad077a7703c5ee89ece54af0afa725c9"
 
 [[files]]
 file = "mods/mantle.pw.toml"
@@ -2478,7 +2502,39 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7a44eab5c0820dffd2822370c0293ec9a407a6d5cbf7c4459d8c74a42849a3eb"
+hash = "692abb5067f205ae3751d749c83857d6a00866c0418bc07a215834a5f4a970ca"
+
+[[files]]
+file = "resources/contenttweaker/lang/en_us.lang"
+hash = "fc691018871ee6652c9a1e07ba666bfa306c489c1647af4a728218664b803b8c"
+
+[[files]]
+file = "resources/contenttweaker/models/item/null_ingot.json"
+hash = "4f9e9f912444a115a525862f6fc9e71d10bf8cb23a0d0dd4f040e448e7edde5f"
+
+[[files]]
+file = "resources/contenttweaker/models/item/null_pointer.json"
+hash = "5df52716f947c310796c9dd361d6c711327b78d58f50bc7bad972d2cb9b3b85f"
+
+[[files]]
+file = "resources/contenttweaker/models/item/null_pointer_exception.json"
+hash = "8a820a621c591d4e3f83f77990c8fed22363c7420ddb983f4962a64f16dcf90b"
+
+[[files]]
+file = "resources/contenttweaker/textures/items/null_ingot.png"
+hash = "612007cad19bc78dea49eadebcdf5ed03802408e70514aeacc43e049243f4b86"
+
+[[files]]
+file = "resources/contenttweaker/textures/items/null_pointer_exception.png"
+hash = "d8294424c2231e037097d9b832e71f0e142c7b38ef6868f3b11118015bca929f"
+
+[[files]]
+file = "resources/pack.mcmeta"
+hash = "17efacfd12264d1a41376fd3a4ba8fe9ccf20e78612f187fc45ce48307063d0d"
+
+[[files]]
+file = "scripts/null_pointer.zs"
+hash = "cb7efff5fa2cebc321bc579a810a32d421252d8300e69bc3ab98f101a85a88b2"
 
 [[files]]
 file = "scripts/recipes.zs"
@@ -2486,4 +2542,8 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "scripts/tinkers.zs"
-hash = "f602e78520537dc8a5ff198707d572a128d4ed8d70f32d49ca31db6bf38ebd4e"
+hash = "5e8352898a2c9b7a4d072fbea2611c67320284deaf2d010a7f0a431ed9d53edb"
+
+[[files]]
+file = "todo.md"
+hash = "6f44d97c77b575f22ea08ca812f7657034138a7995788480727005089a5dc228"

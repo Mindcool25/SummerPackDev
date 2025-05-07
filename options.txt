@@ -11,13 +11,13 @@ bobView:true
 anaglyph3d:false
 maxFps:120
 fboEnable:true
-difficulty:3
+difficulty:0
 fancyGraphics:false
 ao:1
 renderClouds:false
-resourcePacks:[]
-incompatibleResourcePacks:[]
-lastServer:
+resourcePacks:["piping"]
+incompatibleResourcePacks:["piping"]
+lastServer:192.168.24.172
 lang:en_us
 chatVisibility:0
 chatColors:true
@@ -44,7 +44,7 @@ forceUnicodeFont:false
 reducedDebugInfo:false
 useNativeTransport:true
 entityShadows:true
-mainHand:right
+mainHand:left
 attackIndicator:1
 showSubtitles:false
 realmsNotifications:true
@@ -180,10 +180,6 @@ key_mekanism.key.voice:22
 key_pi.key.open_pi:23
 key_pi.key.et_gui:23
 key_pi.key.et_world:23:CONTROL
-key_key.porterNextDestination:27
-key_key.porterPrevDestination:26
-key_key.debugDumpNBTItem:0
-key_key.debugDumpNBTBlock:0
 key_key.remote.desc:0
 key_key.travelersbackpack.inventory:-97
 key_key.travelersbackpack.toggle_tank:49
